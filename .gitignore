@@ -1,0 +1,9 @@
+# Pycharm IDE
+.idea/
+
+# MacOS catalog settings
+.DS_Store
+
+# Python
+__pycache__
+

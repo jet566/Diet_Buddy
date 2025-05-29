@@ -1,0 +1,7 @@
+BMR - 1.0
+Sedentary - 1.2
+Light - 1.37
+Moderate - 1.46
+Active - 1.55
+Very Active - 1.72
+Extra Active - 1.9
