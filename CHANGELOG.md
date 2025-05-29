@@ -4,7 +4,7 @@ First version release
 
 ## Added
 
--Added README.md
--Added CHANGELOG.md
--Added LICENSE
--Added .gitignore 
+- Added README.md
+- Added CHANGELOG.md
+- Added LICENSE
+- Added .gitignore 
