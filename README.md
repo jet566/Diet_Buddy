@@ -13,7 +13,7 @@
 sudo bash
 
 ### Cloning the repository
-`git clone https://github.com/jet566/Diet_Buddy.git`
+git clone https://github.com/jet566/Diet_Buddy.git
 
 ### Change working directory to project catalog
 cd Diet_Buddy
