@@ -33,5 +33,5 @@ This project is licensed under [MIT License](https://en.wikipedia.org/wiki/MIT_L
 
 ## Other important docs
 
-1. **LICENSE** - file that contains full license content
-2. **CHANGELOG.md** - project change history
+1. [**LICENSE**](/LICENSE) - file that contains full license content
+2. [**CHANGELOG.md**](/CHANGELOG.md) - project change history
